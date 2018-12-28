@@ -1,0 +1,10 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="Test.js">Test.js</file>
+        <file alias="data.csv">emu/data.csv</file>
+        <file alias="help.html">help/help.html</file>
+        <file alias="help.png">help/help.png</file>
+        <file alias="image.png">images/image.png</file>
+    </qresource>
+</RCC>
